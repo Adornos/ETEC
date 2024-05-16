@@ -10,12 +10,26 @@ namespace SenCosTan
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>();
+            List<double> notas = new List<double>();
+            List<double> resultado = new List<double>();
 
-            numbers.Add(int.Parse(Console.ReadLine()));
+            Console.Write("Escreva a medida do cateto oposto desse tringulo: ");
+            notas.Add(double.Parse(Console.ReadLine()));
+            
+            Console.Write("Escreva a medida do cateto adjacente desse tringulo: ");
+            notas.Add(double.Parse(Console.ReadLine()));
 
-            Console.Write(numbers);
-            Console.ReadKey();
+            Console.Write("Escreva a medida do hiponetusa desse tringulo: ");
+            notas.Add(double.Parse(Console.ReadLine()));
+
+            resultado.Add(notas[0] / notas[2]);
+            resultado.Add(notas[1] / notas[2]);
+            resultado.Add(notas[0] / notas[1]);
+
+            Console.WriteLine("\n  O seno desse tringulo é " + resultado[0] + "\n  O cosseno desse tringulo é " + resultado[1] + "\n  A tangente desse tringulo é " + resultado[2]);
+            Console.ReadKey();         
+
+
 
         }
     }
