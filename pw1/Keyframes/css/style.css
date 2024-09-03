@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#char{
+    width: 28px;
+    height: 36px;
+    background-image: url(../imgs/mario.png);
+    background-position: 0px -172px;
+    position: absolute;
+    z-index: 1;
+    animation: Mario-1 steps(8) 1s infinite;
+}
+
+#background{
+    position: absolute;
+}
+
+@keyframes Mario-1 {
+    from{
+        background-position-x: 0px;
+    }
+
+    to{
+        background-position-x: -224px;
+    }
+}
+
+#char-mov{
+    position: absolute;
+    top: 28rem;
+    left: 0rem;
+    animation: Mario-Mov 4s linear;
+}
+
+@keyframes Mario-Mov {
+    from{
+        left: 0rem;
+    }
+    to{
+        left: 16rem;
+    }
+}

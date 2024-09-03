@@ -10,18 +10,18 @@ namespace AteN
     {
         static void Main(string[] args)
         {
-            int cont = 0, soma, num;
+            int soma = 0, num, cont = 0;
 
             Console.Write("Digite um número maior que 0: ");
             num = int.Parse(Console.ReadLine());
-
+            
             while (cont <= num)
             {
-                soma =+ cont;
+                soma += cont;
                 cont++;
             }
 
-            Console.WriteLine("A soma de 0 até " + num + " é" + soma);
+            Console.WriteLine("A soma de 0 até " + num + " é " + soma);
             Console.ReadKey();
         }
     }
