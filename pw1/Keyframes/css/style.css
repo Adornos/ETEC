@@ -1,45 +1,88 @@
 body{
+    background-color: rgb(119, 119, 119);
     margin: 0px;
     padding: 0px;
     border: 0px;
 }
 
-#char{
-    width: 28px;
-    height: 36px;
-    background-image: url(../imgs/mario.png);
-    background-position: 0px -172px;
-    position: absolute;
-    z-index: 1;
-    animation: Mario-1 steps(8) 1s infinite;
-}
-
 #background{
-    position: absolute;
+
+    border: 5px solid rgb(196, 196, 196);
+    border-radius: 5px;
+    margin: 10rem;
+    margin-inline: auto;
+    background-image: url(../imgs/Mapa.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 45rem;
+    height: 60rem;
 }
 
-@keyframes Mario-1 {
-    from{
-        background-position-x: 0px;
-    }
+#char{
+    height: 3rem;
+    width: 2rem;
+    background: url(../imgs/Drwatts.png) -1px -159px;
+    animation: 
+    char01 steps(4) 0.5s 0s 4,
+    char02 steps(4) 0.5s 2s 4;
+}
 
+@keyframes char01 {
+    from{
+        background-position-x: -1px ;
+    }
     to{
-        background-position-x: -224px;
+        background-position-x: -133px  ;
+    }
+}
+
+@keyframes char02 {
+    from{
+        background-position: -1px -228px;
+    }
+    to{
+        background-position: -133px -228px;
     }
 }
 
 #char-mov{
-    position: absolute;
-    top: 28rem;
-    left: 0rem;
-    animation: Mario-Mov 4s linear;
+    width: fit-content;
+    position: relative;
+    animation: 
+        charmov01 2s linear,
+        charmov02 1.5s 2s linear,
+        charmov03 1.5s 3.5s linear infinite;
 }
 
-@keyframes Mario-Mov {
+@keyframes charmov01 {
     from{
-        left: 0rem;
+        top: 40rem;
+        left: 0.5rem;
     }
     to{
-        left: 16rem;
+        top: 40rem;
+        left: 20.5rem;
+    }
+}
+
+@keyframes charmov02 {
+    from{
+        top: 40rem;
+        left: 20.5rem
+    }
+    to{
+        top: 25rem;
+        left: 20.5rem
+    }
+}
+
+@keyframes charmov03 {
+    from{
+        top: 25rem;
+        left: 20.5rem;
+    }
+    to{
+        top: 25rem;
+        left: 5.5rem;
     }
 }
