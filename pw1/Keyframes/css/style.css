@@ -59,32 +59,32 @@ body{
 }
 
 @keyframes animacao{
-    0%              {background-position-Y: -2rem;}  
-    6.607744091%    {background-position-Y: -1rem;}    
-    10.41990414%    {background-position-Y: -2rem;}  
-    13.72377619%    {background-position-Y: -3rem;}  
-    14.2320642%     {background-position-Y: -3rem;}  
-    17.28179224%    {background-position-Y: -3rem;}  
-    20.58566428%    {background-position-Y: -5rem;}  
-    21.15394756%    {background-position-Y: -5rem;}  
-    27.97334676%    {background-position-Y: -3rem;}  
-    28.98992277%    {background-position-Y: -5rem;}  
-    33.99597908%    {background-position-Y: -3rem;}  
-    36.0291311%     {background-position-Y: -4rem;}  
-    37.82620059%    {background-position-Y: -5rem;}  
-    39.30810206%    {background-position-Y: -5rem;}  
-    45.23570788%    {background-position-Y: -3rem;}  
-    47.77714791%    {background-position-Y:  0rem;} 
-    49.81029994%    {background-position-Y: -3rem;}  
-    54.38489201%    {background-position-Y:  0rem;} 
-    66.32966017%    {background-position-Y: -1rem;}    
-    69.88767622%    {background-position-Y: -7rem;}  
-    72.04415961%    {background-position-Y:  0rem;} 
-    74.07731164%    {background-position-Y: -1rem;}    
-    79.41433572%    {background-position-Y: -2rem;}  
-    85.2596478%     {background-position-Y: -1rem;}
-    92.37567989%    {background-position-Y:  0rem;}
-    97.96684797%    {background-position-Y: -1rem;}
+    0%               {background-position-Y: -2rem;}  
+    6.607744091%     {background-position-Y: -1rem;}    
+    10.41990414%     {background-position-Y: -2rem;}  
+    13.72377619%     {background-position-Y: -3rem;}  
+    14.2320642%      {background-position-Y: -3rem;}  
+    17.28179224%     {background-position-Y: -3rem;}  
+    20.58566428%     {background-position-Y: -5rem;}  
+    21.15394756%     {background-position-Y: -5rem;}  
+    27.97334676%     {background-position-Y: -3rem;}  
+    28.98992277%     {background-position-Y: -5rem;}  
+    33.99597908%     {background-position-Y: -3rem;}  
+    36.0291311%      {background-position-Y: -4rem;}  
+    37.82620059%     {background-position-Y: -5rem;}  
+    39.30810206%     {background-position-Y: -5rem;}  
+    45.23570788%     {background-position-Y: -3rem;}  
+    47.77714791%     {background-position-Y:  0rem;} 
+    49.81029994%     {background-position-Y: -3rem;}  
+    54.38489201%     {background-position-Y:  0rem;} 
+    66.32966017%     {background-position-Y: -1rem;}    
+    69.88767622%     {background-position-Y: -7rem;}  
+    72.04415961%     {background-position-Y:  0rem;} 
+    74.07731164%     {background-position-Y: -1rem;}    
+    79.41433572%     {background-position-Y: -2rem;}  
+    85.2596478%      {background-position-Y: -1rem;}
+    92.37567989%     {background-position-Y:  0rem;}
+    97.96684797%     {background-position-Y: -1rem;}
 }
 
 @keyframes movimento{
@@ -115,6 +115,12 @@ body{
     92.37567989%    {top: 26.5rem;  left: 48rem;  }
     97.96684797%    {top: 26.5rem;  left: 59rem;  }
     100%            {top: 22.5rem;  left: 59rem;  }
+}
+
+@keyframes anicom {
+
+
+    
 }
 
 /* Old
