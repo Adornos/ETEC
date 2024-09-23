@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+
+    background-color: rgb(255, 96, 96);
+}
+
+table{
+    margin-inline: auto;
+    margin-top: calc(50vh - 301px);
+}
+
+td{
+    width: 9rem;
+    height: 12rem;
+    border: 2px solid black;
+    padding: 0px;
+    margin: 6px;
+    border-radius: 4px;
+    z-index: 0;
+
+    background: linear-gradient(125deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.img .back{
+    width: 9rem;
+    height: 12rem;
+    background: url(../imgs/capa.png) center no-repeat;
+    background-size: contain;
+}
+
+.img-01:active{background: url('../imgs/img-1.png')  no-repeat center; }
+.img-02:active{background: url('../imgs/img-2.png')  no-repeat center; }
+.img-03:active{background: url('../imgs/img-3.webp') no-repeat center; }
+.img-04:active{background: url('../imgs/img-4.webp') no-repeat center; }
+.img-05:active{background: url('../imgs/img-5.webp') no-repeat center; }
+.img-06:active{background: url('../imgs/img-6.webp') no-repeat center; }
+.img-07:active{background: url('../imgs/img-7.webp') no-repeat center; }
+.img-08:active{background: url('../imgs/img-8.webp') no-repeat center; }
+.img-09:active{background: url('../imgs/img-9.png')  no-repeat center; }
+
+
+.img:active{
+    transform: rotateY(720deg) scale(1);
+    transition: 1s;
+    
+}
+
+
+.img .back:active{
+    background-size: contain;
+}

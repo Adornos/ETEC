@@ -48,8 +48,8 @@ body{
     left: 59rem;
 
     animation: 
-        movimento var(--mov-dur) linear infinite forwards,
-        animacao  steps(1) var(--mov-dur) infinite,
+        movimento var(--mov-dur) 3s linear infinite forwards,
+        animacao  steps(1) var(--mov-dur) 3s infinite,
         ani steps(6) var(--ani-dur) infinite;
 }
 
