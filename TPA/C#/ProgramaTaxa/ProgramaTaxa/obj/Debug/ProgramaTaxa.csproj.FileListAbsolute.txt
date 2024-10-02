@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\bin\Debug\ProgramaTaxa.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\obj\Debug\ProgramaTaxa.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\bin\Debug\ProgramaTaxa.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\bin\Debug\ProgramaTaxa.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\obj\Debug\ProgramaTaxa.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTaxa\ProgramaTaxa\obj\Debug\ProgramaTaxa.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\bin\Debug\ExemploIfOperadorLogico.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\bin\Debug\ExemploIfOperadorLogico.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\bin\Debug\ExemploIfOperadorLogico.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\obj\Debug\ExemploIfOperadorLogico.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\obj\Debug\ExemploIfOperadorLogico.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogico\ExemploIfOperadorLogico\obj\Debug\ExemploIfOperadorLogico.pdb

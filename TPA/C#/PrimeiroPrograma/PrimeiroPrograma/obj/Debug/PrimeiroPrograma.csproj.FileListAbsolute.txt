@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\PrimeiroPrograma\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb

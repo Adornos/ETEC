@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\bin\Debug\@while.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\obj\Debug\while.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\bin\Debug\@while.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\bin\Debug\@while.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\obj\Debug\@while.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\while\while\obj\Debug\@while.pdb

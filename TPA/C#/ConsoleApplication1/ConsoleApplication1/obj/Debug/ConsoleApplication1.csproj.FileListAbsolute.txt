@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

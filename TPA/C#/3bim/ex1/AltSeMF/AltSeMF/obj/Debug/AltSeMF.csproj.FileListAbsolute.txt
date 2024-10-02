@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\AltSeMF\AltSeMF\bin\Debug\AltSeMF.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\AltSeMF\AltSeMF\bin\Debug\AltSeMF.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\AltSeMF\AltSeMF\bin\Debug\AltSeMF.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\AltSeMF\AltSeMF\obj\Debug\AltSeMF.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\AltSeMF\AltSeMF\obj\Debug\AltSeMF.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\bin\Debug\vogoecons.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\obj\Debug\vogoecons.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\bin\Debug\vogoecons.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\bin\Debug\vogoecons.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\obj\Debug\vogoecons.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\vogoecons\vogoecons\obj\Debug\vogoecons.pdb

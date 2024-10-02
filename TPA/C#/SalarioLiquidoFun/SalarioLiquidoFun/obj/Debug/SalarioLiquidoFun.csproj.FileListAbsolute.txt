@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\bin\Debug\SalarioLiquidoFun.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\obj\Debug\SalarioLiquidoFun.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\bin\Debug\SalarioLiquidoFun.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\bin\Debug\SalarioLiquidoFun.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\obj\Debug\SalarioLiquidoFun.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SalarioLiquidoFun\SalarioLiquidoFun\obj\Debug\SalarioLiquidoFun.pdb

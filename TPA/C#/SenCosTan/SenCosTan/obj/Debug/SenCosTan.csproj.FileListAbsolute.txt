@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\bin\Debug\SenCosTan.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\bin\Debug\SenCosTan.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\bin\Debug\SenCosTan.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\obj\Debug\SenCosTan.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\obj\Debug\SenCosTan.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\SenCosTan\SenCosTan\obj\Debug\SenCosTan.csprojResolveAssemblyReference.cache

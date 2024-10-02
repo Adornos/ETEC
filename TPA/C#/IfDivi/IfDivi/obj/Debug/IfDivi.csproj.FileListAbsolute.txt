@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\bin\Debug\IfDivi.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\obj\Debug\IfDivi.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\bin\Debug\IfDivi.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\bin\Debug\IfDivi.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\obj\Debug\IfDivi.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfDivi\IfDivi\obj\Debug\IfDivi.pdb

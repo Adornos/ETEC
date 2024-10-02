@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\atevarN\atevarN\bin\Debug\atevarN.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\atevarN\atevarN\bin\Debug\atevarN.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\atevarN\atevarN\bin\Debug\atevarN.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\atevarN\atevarN\obj\Debug\atevarN.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\atevarN\atevarN\obj\Debug\atevarN.pdb

@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de300\3de300\bin\Debug\3de300.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de300\3de300\bin\Debug\3de300.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de300\3de300\bin\Debug\3de300.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de300\3de300\obj\Debug\3de300.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de300\3de300\obj\Debug\3de300.pdb

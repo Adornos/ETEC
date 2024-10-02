@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogicoOU\ExemploIfOperadorLogicoOU\bin\Debug\ExemploIfOperadorLogicoOU.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogicoOU\ExemploIfOperadorLogicoOU\bin\Debug\ExemploIfOperadorLogicoOU.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogicoOU\ExemploIfOperadorLogicoOU\bin\Debug\ExemploIfOperadorLogicoOU.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogicoOU\ExemploIfOperadorLogicoOU\obj\Debug\ExemploIfOperadorLogicoOU.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ExemploIfOperadorLogicoOU\ExemploIfOperadorLogicoOU\obj\Debug\ExemploIfOperadorLogicoOU.pdb

@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\doacaoSangue\doacaoSangue\bin\Debug\doacaoSangue.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\doacaoSangue\doacaoSangue\bin\Debug\doacaoSangue.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\doacaoSangue\doacaoSangue\bin\Debug\doacaoSangue.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\doacaoSangue\doacaoSangue\obj\Debug\doacaoSangue.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\doacaoSangue\doacaoSangue\obj\Debug\doacaoSangue.pdb

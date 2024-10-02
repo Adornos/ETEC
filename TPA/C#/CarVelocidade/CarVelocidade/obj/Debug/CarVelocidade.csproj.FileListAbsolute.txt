@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CarVelocidade\CarVelocidade\bin\Debug\CarVelocidade.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CarVelocidade\CarVelocidade\bin\Debug\CarVelocidade.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CarVelocidade\CarVelocidade\bin\Debug\CarVelocidade.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CarVelocidade\CarVelocidade\obj\Debug\CarVelocidade.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CarVelocidade\CarVelocidade\obj\Debug\CarVelocidade.pdb

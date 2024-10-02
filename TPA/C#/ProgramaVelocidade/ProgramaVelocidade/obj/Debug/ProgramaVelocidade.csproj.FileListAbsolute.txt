@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaVelocidade\ProgramaVelocidade\bin\Debug\ProgramaVelocidade.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaVelocidade\ProgramaVelocidade\bin\Debug\ProgramaVelocidade.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaVelocidade\ProgramaVelocidade\bin\Debug\ProgramaVelocidade.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaVelocidade\ProgramaVelocidade\obj\Debug\ProgramaVelocidade.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaVelocidade\ProgramaVelocidade\obj\Debug\ProgramaVelocidade.pdb

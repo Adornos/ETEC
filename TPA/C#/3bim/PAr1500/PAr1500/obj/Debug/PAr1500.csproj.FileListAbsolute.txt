@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\PAr1500\PAr1500\bin\Debug\PAr1500.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\PAr1500\PAr1500\bin\Debug\PAr1500.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\PAr1500\PAr1500\bin\Debug\PAr1500.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\PAr1500\PAr1500\obj\Debug\PAr1500.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\PAr1500\PAr1500\obj\Debug\PAr1500.pdb

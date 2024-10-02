@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\bin\Debug\Medianota.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\obj\Debug\Medianota.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\bin\Debug\Medianota.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\bin\Debug\Medianota.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\obj\Debug\Medianota.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Medianota\Medianota\obj\Debug\Medianota.pdb

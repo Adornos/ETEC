@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaSoma\ProgramaSoma\bin\Debug\ProgramaSoma.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaSoma\ProgramaSoma\obj\Debug\ProgramaSoma.pdb

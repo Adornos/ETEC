@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\NotaMedia\NotaMedia\bin\Debug\NotaMedia.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\NotaMedia\NotaMedia\bin\Debug\NotaMedia.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\NotaMedia\NotaMedia\bin\Debug\NotaMedia.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\NotaMedia\NotaMedia\obj\Debug\NotaMedia.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\NotaMedia\NotaMedia\obj\Debug\NotaMedia.pdb

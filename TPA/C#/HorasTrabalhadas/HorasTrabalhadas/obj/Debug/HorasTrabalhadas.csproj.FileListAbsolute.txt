@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\HorasTrabalhadas\HorasTrabalhadas\bin\Debug\HorasTrabalhadas.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\HorasTrabalhadas\HorasTrabalhadas\obj\Debug\HorasTrabalhadas.pdb

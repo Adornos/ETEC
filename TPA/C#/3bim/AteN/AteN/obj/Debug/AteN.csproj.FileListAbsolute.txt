@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\bin\Debug\AteN.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\obj\Debug\AteN.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\bin\Debug\AteN.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\bin\Debug\AteN.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\obj\Debug\AteN.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\AteN\AteN\obj\Debug\AteN.pdb

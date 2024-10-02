@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\DiaSemana\DiaSemana\bin\Debug\DiaSemana.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\DiaSemana\DiaSemana\bin\Debug\DiaSemana.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\DiaSemana\DiaSemana\bin\Debug\DiaSemana.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\DiaSemana\DiaSemana\obj\Debug\DiaSemana.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\DiaSemana\DiaSemana\obj\Debug\DiaSemana.pdb

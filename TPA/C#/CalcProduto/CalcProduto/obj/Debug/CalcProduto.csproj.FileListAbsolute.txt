@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\bin\Debug\CalcProduto.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\obj\Debug\CalcProduto.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\bin\Debug\CalcProduto.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\bin\Debug\CalcProduto.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\obj\Debug\CalcProduto.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\CalcProduto\CalcProduto\obj\Debug\CalcProduto.pdb

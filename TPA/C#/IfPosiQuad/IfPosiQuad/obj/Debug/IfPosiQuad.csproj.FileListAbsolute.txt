@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\bin\Debug\IfPosiQuad.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\obj\Debug\IfPosiQuad.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\bin\Debug\IfPosiQuad.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\bin\Debug\IfPosiQuad.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\obj\Debug\IfPosiQuad.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfPosiQuad\IfPosiQuad\obj\Debug\IfPosiQuad.pdb

@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\bin\Debug\IfMedia.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\obj\Debug\IfMedia.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\bin\Debug\IfMedia.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\bin\Debug\IfMedia.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\obj\Debug\IfMedia.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfMedia\IfMedia\obj\Debug\IfMedia.pdb

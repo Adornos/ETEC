@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfAno\IfAno\bin\Debug\IfAno.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfAno\IfAno\bin\Debug\IfAno.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfAno\IfAno\bin\Debug\IfAno.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfAno\IfAno\obj\Debug\IfAno.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfAno\IfAno\obj\Debug\IfAno.pdb

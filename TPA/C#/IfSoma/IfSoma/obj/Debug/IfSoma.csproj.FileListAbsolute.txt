@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfSoma\IfSoma\bin\Debug\IfSoma.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfSoma\IfSoma\bin\Debug\IfSoma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfSoma\IfSoma\bin\Debug\IfSoma.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfSoma\IfSoma\obj\Debug\IfSoma.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfSoma\IfSoma\obj\Debug\IfSoma.pdb

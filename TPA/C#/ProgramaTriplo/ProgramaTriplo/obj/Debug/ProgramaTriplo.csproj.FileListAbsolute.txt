@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTriplo\ProgramaTriplo\bin\Debug\ProgramaTriplo.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTriplo\ProgramaTriplo\bin\Debug\ProgramaTriplo.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTriplo\ProgramaTriplo\bin\Debug\ProgramaTriplo.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTriplo\ProgramaTriplo\obj\Debug\ProgramaTriplo.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaTriplo\ProgramaTriplo\obj\Debug\ProgramaTriplo.pdb

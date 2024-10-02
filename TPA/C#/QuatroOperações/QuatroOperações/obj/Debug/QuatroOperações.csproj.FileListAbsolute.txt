@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\bin\Debug\QuatroOperações.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\obj\Debug\QuatroOperações.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\bin\Debug\QuatroOperações.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\bin\Debug\QuatroOperações.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\obj\Debug\QuatroOperações.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\QuatroOperações\QuatroOperações\obj\Debug\QuatroOperações.pdb

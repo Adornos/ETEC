@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de50\3de50\bin\Debug\3de50.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de50\3de50\bin\Debug\3de50.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de50\3de50\bin\Debug\3de50.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de50\3de50\obj\Debug\3de50.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\3de50\3de50\obj\Debug\3de50.pdb

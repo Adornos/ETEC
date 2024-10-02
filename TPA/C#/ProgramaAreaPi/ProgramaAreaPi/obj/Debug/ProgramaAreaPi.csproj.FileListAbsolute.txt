@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaAreaPi\ProgramaAreaPi\bin\Debug\ProgramaAreaPi.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaAreaPi\ProgramaAreaPi\bin\Debug\ProgramaAreaPi.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaAreaPi\ProgramaAreaPi\bin\Debug\ProgramaAreaPi.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaAreaPi\ProgramaAreaPi\obj\Debug\ProgramaAreaPi.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\ProgramaAreaPi\ProgramaAreaPi\obj\Debug\ProgramaAreaPi.pdb

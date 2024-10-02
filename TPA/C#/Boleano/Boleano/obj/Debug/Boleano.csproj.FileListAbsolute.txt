@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\bin\Debug\Boleano.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\bin\Debug\Boleano.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\bin\Debug\Boleano.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\obj\Debug\Boleano.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\obj\Debug\Boleano.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Boleano\Boleano\obj\Debug\Boleano.pdb

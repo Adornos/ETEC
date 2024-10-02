@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\bin\Debug\Whilepares.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\bin\Debug\Whilepares.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\bin\Debug\Whilepares.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\obj\Debug\Whilepares.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\obj\Debug\Whilepares.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\Whilepares\Whilepares\obj\Debug\Whilepares.csprojResolveAssemblyReference.cache

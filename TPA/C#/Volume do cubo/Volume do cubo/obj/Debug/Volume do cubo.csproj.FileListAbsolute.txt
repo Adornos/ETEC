@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Volume do cubo\Volume do cubo\bin\Debug\Volume do cubo.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Volume do cubo\Volume do cubo\bin\Debug\Volume do cubo.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Volume do cubo\Volume do cubo\bin\Debug\Volume do cubo.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Volume do cubo\Volume do cubo\obj\Debug\Volume do cubo.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\Volume do cubo\Volume do cubo\obj\Debug\Volume do cubo.pdb

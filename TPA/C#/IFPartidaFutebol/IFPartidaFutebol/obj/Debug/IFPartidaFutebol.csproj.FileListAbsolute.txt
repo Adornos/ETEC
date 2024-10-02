@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IFPartidaFutebol\IFPartidaFutebol\bin\Debug\IFPartidaFutebol.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IFPartidaFutebol\IFPartidaFutebol\bin\Debug\IFPartidaFutebol.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IFPartidaFutebol\IFPartidaFutebol\bin\Debug\IFPartidaFutebol.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IFPartidaFutebol\IFPartidaFutebol\obj\Debug\IFPartidaFutebol.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IFPartidaFutebol\IFPartidaFutebol\obj\Debug\IFPartidaFutebol.pdb

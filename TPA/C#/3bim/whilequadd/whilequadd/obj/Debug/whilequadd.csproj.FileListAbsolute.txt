@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\whilequadd\whilequadd\bin\Debug\whilequadd.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\whilequadd\whilequadd\bin\Debug\whilequadd.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\whilequadd\whilequadd\bin\Debug\whilequadd.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\whilequadd\whilequadd\obj\Debug\whilequadd.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\whilequadd\whilequadd\obj\Debug\whilequadd.pdb

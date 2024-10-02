@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\bin\Debug\233a246.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\bin\Debug\233a246.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\bin\Debug\233a246.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\obj\Debug\233a246.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\obj\Debug\233a246.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\233a246\233a246\obj\Debug\233a246.pdb

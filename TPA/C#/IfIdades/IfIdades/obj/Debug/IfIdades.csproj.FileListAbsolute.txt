@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfIdades\IfIdades\bin\Debug\IfIdades.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfIdades\IfIdades\bin\Debug\IfIdades.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfIdades\IfIdades\bin\Debug\IfIdades.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfIdades\IfIdades\obj\Debug\IfIdades.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\IfIdades\IfIdades\obj\Debug\IfIdades.pdb

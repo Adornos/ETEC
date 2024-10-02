@@ -1,0 +1,5 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\Parde10\Parde10\bin\Debug\Parde10.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\Parde10\Parde10\bin\Debug\Parde10.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\Parde10\Parde10\bin\Debug\Parde10.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\Parde10\Parde10\obj\Debug\Parde10.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\ex1\Parde10\Parde10\obj\Debug\Parde10.pdb

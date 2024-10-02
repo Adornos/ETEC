@@ -1,0 +1,6 @@
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\bin\Debug\IdadeWhile.exe.config
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\bin\Debug\IdadeWhile.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\bin\Debug\IdadeWhile.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\obj\Debug\IdadeWhile.exe
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\obj\Debug\IdadeWhile.pdb
+C:\Users\ds-etim-1\Documents\GitHub\ETEC\TPA\C#\3bim\IdadeWhile\IdadeWhile\obj\Debug\IdadeWhile.csprojResolveAssemblyReference.cache
