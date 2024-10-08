@@ -1,0 +1,58 @@
+.dialogo{
+    margin-top: 2rem;
+    margin-inline: auto;
+    background-color: wheat;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    width: fit-content;
+    height: fit-content;
+    padding: 1rem;
+    border: solid 1rem wheat;
+    border-radius: 1rem;
+}
+
+.balao{
+    margin-inline: auto;
+    padding: 2rem;
+}
+
+.spiderman{
+    background: url(../imgs/spiderman.jfif) center center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
+
+.deadpool{
+    background: url(../imgs/deadpool.jfif) center center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
+
+.batman{
+    background: url(../imgs/batmanjfif.jfif) center center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
+
+.superman{
+    background: url(../imgs/superman.webp) center center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
+
+.image{
+    clip-path: circle(50%);
+    animation: piao 2s alternate ease-in-out infinite;
+    transform: rotateZ(0deg);
+}
+
+@keyframes piao {
+    from{
+        transform: rotateZ(720deg);
+    }
+}

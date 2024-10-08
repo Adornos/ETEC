@@ -1,0 +1,32 @@
+.dialogo{
+    margin-inline: auto;
+    background-color: wheat;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    width: fit-content;
+    height: fit-content;
+    padding: 1rem;
+    border: solid 1rem wheat;
+    border-radius: 1rem;
+}
+
+.balao{
+    margin-inline: auto;
+    padding: 2rem;
+}
+
+.hulk{
+    background: url(../imgs/hulk.jpg) center center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
+
+.banana{
+    background: url(../imgs/images.jfif);
+    background-position-x: center;
+    background-size: cover;
+    width: 16rem;
+    height: 16rem;
+}
