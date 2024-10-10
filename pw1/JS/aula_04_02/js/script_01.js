@@ -2,6 +2,9 @@ univ = window.prompt("Digite um universo (Marvel) (DC): ").toLowerCase();
 heroi = window.prompt("Digite o nome de um heroi:  ");
 hero = heroi.toLowerCase().replace(/\s+/g, '');
 
+
+
+
 if ((((hero == "batman") || (hero == "superman")) && (univ == "dc")) || (((hero == "spiderman") || (hero == "deadpool")) && (univ == "marvel"))){
     
     n = window.prompt("Digite a quantidade de aparições:  ");
