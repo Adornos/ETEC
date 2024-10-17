@@ -1,0 +1,8 @@
+.aluno{
+    margin-inline: auto;
+    width: 50%;
+    background-color: bisque;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+}

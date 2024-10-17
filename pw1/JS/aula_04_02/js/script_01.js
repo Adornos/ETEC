@@ -18,3 +18,5 @@ if ((((hero == "batman") || (hero == "superman")) && (univ == "dc")) || (((hero 
 else{
     document.write("<div class='dialogo'>O heroi não existe nesse universo</div>");
 }
+
+
