@@ -5,7 +5,7 @@ herois = [
     ["spiderman", "deadpool"]
 ];
 
-inUniverso = window.prompt("Digite o universo (Marvel) (DC)".toLowerCase().replace(/\s+/g, ''));
+inUniverso = window.prompt("Digite o universo (Marvel) (DC)").toLowerCase().replace(/\s+/g, '');
 
 if(universos.includes(inUniverso)){
 
@@ -23,12 +23,12 @@ if(universos.includes(inUniverso)){
     }
 
     else{
-        document.write("<div class='dialogo'>O heroi não existe nesse universo</div>");
+        document.getElementById("herois").innerHTML = ("<div class='dialogo'>O heroi não existe nesse universo</div>");
     }
 }
 
 else{
-    document.write("<div class='dialogo'>Esse universo não está incluido nesse banco</div>");
+    document.getElementById("herois").innerHTML = ("<div class='dialogo'>Esse universo não está incluido nesse banco</div>");
 }
 
 
