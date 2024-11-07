@@ -1,0 +1,7 @@
+td {
+    width: 12rem;
+    height: 16rem;
+    background: url(../imgs/capa.png) no-repeat 0rem 8rem;
+    background-size: contain;
+}
+

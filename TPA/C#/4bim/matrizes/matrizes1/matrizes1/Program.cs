@@ -10,6 +10,21 @@ namespace matrizes1
     {
         static void Main(string[] args)
         {
+            int[] numeros = new int[10];
+            int[] numerosSorted = new int[10];
+            int multiplo = 0, aMultiplo = 0;
+
+
+            for (int i = 0; i < 10; i++)
+            {
+	            Console.Write("digite um número: ");
+	            numeros[i] = int.Parse(Console.ReadLine());
+            }
+
+            
+
+            Console.ReadKey();
+
         }
     }
 }
