@@ -1,13 +1,18 @@
+table{
+    padding: 4rem;
+    margin-inline: auto;
+}
+
 td {
     rotate: 0 1 0 0deg;
     transition: 1s ease-in-out;
 }
 
 td button{
+    cursor: pointer;
     width: 9rem;
     height: 12rem;
     background: url(../imgs/capa.png) no-repeat 0px 54px;
     background-size:contain !important; 
     transition: 0s 0.5s;
 }
-

@@ -1,37 +1,43 @@
-universos = ["dc", "marvel"];
 
-herois = [
-    ["batman", "superman"],
-    ["spiderman", "deadpool"]
-];
+univ = window.prompt("Digite um universo (Marvel) (DC): ").toLowerCase();
 
-inUniverso = window.prompt("Digite o universo (Marvel) (DC)").toLowerCase().replace(/\s+/g, '');
-
-if(universos.includes(inUniverso)){
-
-    indexUniverso = universos.indexOf(inUniverso);
-
-    inHeroi = window.prompt("Digite o nome de um heroi:  ");
-    indentHeroi = inHeroi.toLowerCase().replace(/\s+/g, '');
-
-    if(herois[indexUniverso].includes(indentHeroi)){
-
-        heroiLoop = parseInt(window.prompt("Digite a quantidade de vezes que deseja que o heroi apareça: "));
-        for (let i = 0; i < heroiLoop; i++) {
-            document.getElementById("herois").innerHTML += "<div class='dialogo'>O heroi é: " + indentHeroi + " <div class='balao'> <div class = '" + indentHeroi + " image'> </div></div></div>";
+switch (univ) {
+    case "dc":
+        heroi = window.prompt("Digite o nome de um heroi:  ");
+        hero = heroi.toLowerCase().replace(/\s+/g, '');
+        switch (hero) {
+            case "batman":
+            case "superman":
+                let n = window.prompt("Digite a quantidade de aparições:  ");
+                let i = 0;
+                while (i < n) {
+                    document.getElementById("herois").innerHTML += "<div class='dialogo'>O heroi é: " + heroi + " <div class='balao'> <div class = '" + hero + " image'> </div></div></div>";
+                    i++;
+                }
+        break;
+        default:
+                document.getElementById("herois").innerHTML += "<div class='dialogo'>O heroi não existe nesse universo</div>";
         }
-    }
+    break;
 
-    else{
-        document.getElementById("herois").innerHTML = ("<div class='dialogo'>O heroi não existe nesse universo</div>");
-    }
+    case "marvel":
+        heroi = window.prompt("Digite o nome de um heroi:  ");
+        hero = heroi.toLowerCase().replace(/\s+/g, '');
+        switch (hero) {
+            case "spiderman":
+            case "deadpool":
+                let n = window.prompt("Digite a quantidade de aparições:  ");
+                let i = 0;
+                while (i < n) {
+                    document.getElementById("herois").innerHTML += "<div class='dialogo'>O heroi é: " + heroi + " <div class='balao'> <div class = '" + hero + " image'> </div></div></div>";
+                    i++;
+                }
+            break;
+            default:
+                document.getElementById("herois").innerHTML += "<div class='dialogo'>O heroi não existe nesse universo</div>";
+        }
+    break;
+
+    default:
+        document.getElementById("herois").innerHTML += "<div class='dialogo'>Esse universo não existe</div>";
 }
-
-else{
-    document.getElementById("herois").innerHTML = ("<div class='dialogo'>Esse universo não está incluido nesse banco</div>");
-}
-
-
-        
-
-

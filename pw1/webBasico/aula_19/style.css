@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.grad{
+    height: 70vh;
+    margin-top: 2rem;
+}
+
+.grad-1{
+    background-image: linear-gradient(to right, #0000ff, #00ffff);
+}
+
+.grad-2{
+    background-image: linear-gradient(to top right, #0000ff, #00ffff);
+}
+
+.grad-3{
+    background-image: linear-gradient(180deg, #0000ff, #00ffff);
+}
+
+.grad-4{
+    background-image: radial-gradient(#0000ff, #00ffff);
+}

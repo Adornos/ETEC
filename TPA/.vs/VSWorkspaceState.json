@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\C#",
-    "\\C#\\3bim",
-    "\\C#\\3bim\\AteN"
+    "\\C#\\3bim\\AteN",
+    "\\C#\\4bim",
+    "\\C#\\4bim\\matrizes",
+    "\\C#\\4bim\\matrizes\\matrizes1"
   ],
-  "SelectedNode": "\\C#\\3bim\\PAr1500",
+  "SelectedNode": "\\C#\\4bim\\matrizes\\matrizes1\\matrizes1.sln",
   "PreviewInSolutionExplorer": false
 }

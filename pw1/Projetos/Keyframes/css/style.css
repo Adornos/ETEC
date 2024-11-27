@@ -1,0 +1,290 @@
+:root{
+    --mov-dur: 49.1847135s;
+    --ani-dur: 1s;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background: radial-gradient(#698342 50%, #7c9b4d 100%);
+}
+
+.animation{
+    margin: 3rem;
+}
+
+.background{
+    width: 1024px;
+    height: 1024px;
+    margin-inline: auto;
+    border-radius: 1rem;
+    background: url(../imgs/Map.jpeg);
+    background-size: contain;
+
+    border: #4a9751 solid 1rem;
+    box-shadow: #1124135d 1rem 1rem;
+}
+
+.foreground{
+    position: relative;
+    z-index: 5;
+    top: -1rem;
+    width: 1024px;
+    height: 1024px;
+    background: url(../imgs/SobreMap.png);
+    background-size: contain;
+}
+
+#char-mov{
+    position: relative;
+    height: 1rem;
+    width: 1rem;
+    image-rendering: pixelated;
+    background: url(../imgs/Protagonist.png);
+    scale: 2.25;
+
+    top: 17rem;
+    left: 59rem;
+
+    animation: 
+        movimento var(--mov-dur) 3s linear infinite forwards,
+        animacao  steps(1) var(--mov-dur) 3s infinite,
+        ani steps(6) var(--ani-dur) infinite;
+}
+
+@keyframes ani{
+    from{background-position-x: 0rem;}
+    to{background-position-x: -6rem;}
+}
+
+@keyframes animacao{
+    0%               {background-position-Y: -2rem;}  
+    6.607744091%     {background-position-Y: -1rem;}    
+    10.41990414%     {background-position-Y: -2rem;}  
+    13.72377619%     {background-position-Y: -3rem;}  
+    14.2320642%      {background-position-Y: -3rem;}  
+    17.28179224%     {background-position-Y: -3rem;}  
+    20.58566428%     {background-position-Y: -5rem;}  
+    21.15394756%     {background-position-Y: -5rem;}  
+    27.97334676%     {background-position-Y: -3rem;}  
+    28.98992277%     {background-position-Y: -5rem;}  
+    33.99597908%     {background-position-Y: -3rem;}  
+    36.0291311%      {background-position-Y: -4rem;}  
+    37.82620059%     {background-position-Y: -5rem;}  
+    39.30810206%     {background-position-Y: -5rem;}  
+    45.23570788%     {background-position-Y: -3rem;}  
+    47.77714791%     {background-position-Y:  0rem;} 
+    49.81029994%     {background-position-Y: -3rem;}  
+    54.38489201%     {background-position-Y:  0rem;} 
+    66.32966017%     {background-position-Y: -1rem;}    
+    69.88767622%     {background-position-Y: -7rem;}  
+    72.04415961%     {background-position-Y:  0rem;} 
+    74.07731164%     {background-position-Y: -1rem;}    
+    79.41433572%     {background-position-Y: -2rem;}  
+    85.2596478%      {background-position-Y: -1rem;}
+    92.37567989%     {background-position-Y:  0rem;}
+    97.96684797%     {background-position-Y: -1rem;}
+}
+
+@keyframes movimento{
+    0%              {top: 17rem;    left: 59rem;  }
+    6.607744091%    {top: 17rem;    left: 46rem;  }
+    10.41990414%    {top: 9.5rem;   left: 46rem;  }
+    13.72377619%    {top: 9.5rem;   left: 39.5rem;}
+    14.2320642%     {top: 10.5rem;  left: 39.5rem;}
+    17.28179224%    {top: 13.5rem;  left: 39.5rem;}
+    20.58566428%    {top: 20rem;    left: 39.5rem;}
+    21.15394756%    {top: 21rem;    left: 39rem;  }
+    27.97334676%    {top: 27rem;    left: 36rem;  }
+    28.98992277%    {top: 29rem;    left: 36rem;  }
+    33.99597908%    {top: 33rem;    left: 27rem;  }
+    36.0291311%     {top: 37rem;    left: 27rem;  }
+    37.82620059%    {top: 39.5rem;  left: 29.5rem;}
+    39.30810206%    {top: 42rem;    left: 28rem;  }
+    45.23570788%    {top: 47rem;    left: 25rem;  }
+    47.77714791%    {top: 52rem;    left: 25rem;  }
+    49.81029994%    {top: 52rem;    left: 29rem;  }
+    54.38489201%    {top: 61rem;    left: 29rem;  }
+    66.32966017%    {top: 61rem;    left: 52.5rem;}
+    69.88767622%    {top: 54rem;    left: 52.5rem;}
+    72.04415961%    {top: 51rem;    left: 55.5rem;}
+    74.07731164%    {top: 51rem;    left: 59.5rem;}
+    79.41433572%    {top: 40.5rem;  left: 59.5rem;}
+    85.2596478%     {top: 40.5rem;  left: 48rem;  }
+    92.37567989%    {top: 26.5rem;  left: 48rem;  }
+    97.96684797%    {top: 26.5rem;  left: 59rem;  }
+    100%            {top: 22.5rem;  left: 59rem;  }
+}
+
+@keyframes anicom {
+
+
+    
+}
+
+/* Old
+    #char-mov{
+    position: relative;
+    height: 1rem;
+    width: 1rem;
+
+    top: 17rem;
+    left: 59rem;
+
+    animation: 
+    mov01 linear forwards 3.25s         0.0s,
+    mov02 linear forwards 1.875s        3.25s,
+    mov03 linear forwards 1.625s        5.125s,
+    mov04 linear forwards 0.25s         6.75s,
+    mov05 linear forwards 1.5s          7.0s,
+    mov06 linear forwards 1.625s        8.5s,
+    mov07 linear forwards 0.279508497s  10.125s,
+    mov08 linear forwards 3.354101966s  10.4045085s,
+    mov09 linear forwards 0.5s          13.75861046s,
+    mov10 linear forwards 2.46221445s   14.25861046s,
+    mov11 linear forwards 1s            16.72082491s,
+    mov12 linear forwards 0.883883476s  17.72082491s,
+    mov13 linear forwards 0.728868987s  18.60470839s,
+    mov14 linear forwards 2.915475947s  19.33357738s,
+    mov15 linear forwards 1.25s         22.24905332s,
+    mov16 linear forwards 1s            23.49905332s,
+    mov17 linear forwards 2.25s         24.49905332s,
+    mov18 linear forwards 5.875s        26.74905332s,
+    mov19 linear forwards 1.75s         32.62405332s,
+    mov20 linear forwards 1.060660172s  34.37405332s,
+    mov21 linear forwards 1s            35.4347135s,
+    mov22 linear forwards 2.625s        36.4347135s,
+    mov23 linear forwards 2.875s        39.0597135s,
+    mov24 linear forwards 3.5s          41.9347135s,
+    mov25 linear forwards 2.75s         45.4347135s,
+    mov26 linear forwards 1s            48.1847135s
+    ; 
+}
+
+@keyframes mov01{to{top: 17rem; left: 46rem;}}
+
+@keyframes mov02{to{top: 9.5rem; left: 46rem;}}
+
+@keyframes mov03{to{top: 9.5rem; left: 39.5rem;}}
+
+@keyframes mov04{to{top: 10.5rem; left: 39.5rem;}}
+
+@keyframes mov05{to{top: 13.5rem; left: 39.5rem;}}
+
+@keyframes mov06{to{top: 20rem; left: 39.5rem;}}
+
+@keyframes mov07{to{top: 21rem; left: 39rem;}}
+
+@keyframes mov08{to{top: 27rem; left: 36rem;}}
+
+@keyframes mov09{to{top: 29rem; left: 36rem;}}
+
+@keyframes mov10{to{top: 33rem; left: 27rem;}}
+
+@keyframes mov11{to{top: 37rem; left: 27rem;}}
+
+@keyframes mov12{to{top: 39.5rem; left: 29.5rem;}}
+
+@keyframes mov13{to{top: 42rem; left: 28rem;}}
+
+@keyframes mov14{to{top: 47rem; left: 25rem;}}
+
+@keyframes mov15{to{top: 52rem; left: 25rem;}}
+
+@keyframes mov16{to{top: 52rem; left: 29rem;}}
+
+@keyframes mov17{to{top: 61rem; left: 29rem;}}
+
+@keyframes mov18{to{top: 61rem; left: 52.5rem;}}
+
+@keyframes mov19{to{top: 54rem; left: 52.5rem;}}
+
+@keyframes mov20{to{top: 51rem; left: 55.5rem;}}
+
+@keyframes mov21{to{top: 51rem; left: 59.5rem;}}
+
+@keyframes mov22{to{top: 40.5rem; left: 59.5rem;}}
+
+@keyframes mov23{to{top: 40.5rem; left: 48rem;}}
+
+@keyframes mov24{to{top: 26.5rem; left: 48rem;}}
+
+@keyframes mov25{to{top: 26.5rem; left: 59rem;}}
+
+@keyframes mov26{to{top: 22.5rem; left: 59rem;}}
+
+#char{
+    visibility: hidden;
+    z-index: 0;
+    position: relative;
+    height: 1rem;
+    width: 1rem;
+    image-rendering: pixelated;
+    background: url(../imgs/Protagonist.png);
+    scale: 2.25;
+    
+    animation: 
+        cleft  steps(6) 1s 0s           3.25,
+        cup    steps(6) 1s 3.25s        1.875,
+        cleft  steps(6) 1s 5.125s       1.625,
+        cdown  steps(6) 1s 6.75s        0.25,
+        cdown  steps(6) 1s 7s           1.5,
+        cdown  steps(6) 1s 8.5s         1.625,
+        cledw  steps(6) 1s 10.125s      0.279508497,
+        cledw  steps(6) 1s 10.4045085s  3.354101966,
+        cdown  steps(6) 1s 13.75861046s 0.5,
+        cledw  steps(6) 1s 14.25861046s 2.46221445,
+        cdown  steps(6) 1s 16.72082491s 1,
+        cridw  steps(6) 1s 17.72082491s 0.883883476,
+        cledw  steps(6) 1s 18.60470839s 0.728868987,
+        cledw  steps(6) 1s 19.33357738s 2.915475947,
+        cdown  steps(6) 1s 22.24905332s 1.25,
+        cright steps(6) 1s 23.49905332s 1,
+        cdown  steps(6) 1s 24.49905332s 2.25,
+        cright steps(6) 1s 26.74905332s 5.875,
+        cup    steps(6) 1s 32.62405332s 1.75,
+        criup  steps(6) 1s 34.37405332s 1.060660172,
+        cright steps(6) 1s 35.4347135s  1,
+        cup    steps(6) 1s 36.4347135s  2.625,
+        cleft  steps(6) 1s 39.0597135s  2.875,
+        cup    steps(6) 1s 41.9347135s  3.5,
+        cright steps(6) 1s 45.4347135s  2.75,
+        cup    steps(6) 1s 48.1847135s  2
+    ;
+}
+
+@keyframes cright {
+    from{background-position: 0rem 0rem;}
+    to{background-position: -6rem 0rem;}
+}
+
+@keyframes cup {
+    from{background-position: 0rem -1rem;}
+    to{background-position: -6rem -1rem;}
+}
+
+@keyframes cleft {
+    from{background-position: 0rem -2rem;}
+    to{background-position: -6rem -2rem;}
+}
+
+@keyframes cdown {
+    from{background-position: 0rem -3rem;}
+    to{background-position: -6rem -3rem;}
+}
+
+@keyframes cridw {
+    from{background-position: 0rem -4rem;}
+    to{background-position: -6rem -4rem;}
+}
+
+@keyframes cledw {
+    from{background-position: 0rem -5rem;}
+    to{background-position: -6rem -5rem;}
+}
+
+@keyframes criup {
+    from{background-position: 0rem -7rem;}
+    to{background-position: -6rem -7rem;}
+} */

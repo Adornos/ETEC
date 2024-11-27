@@ -1,0 +1,87 @@
+table{
+    border: solid 2px #000;
+    position: relative;
+    margin-inline: auto;
+    margin-top: calc(90vh - 630px);
+}
+
+td{
+    height: 6rem;
+    width: 6rem;
+    border: solid 2px black;
+    background: url(imgs/default.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.carta-1:active{
+    background-image: url("imgs/Copas.png");
+}
+
+.carta-2:active{
+    background-image: url("imgs/Spades.png");
+}
+
+.carta-3:active{
+    background-image: url("imgs/Ouros.png");
+}
+
+.carta-4:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-5:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-6:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-7:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-8:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-9:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-10:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-11:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-12:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-13:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-14:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-15:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-16:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-17:active{
+    background-image: url("imgs/Paus.png");
+}
+
+.carta-18:active{
+    background-image: url("imgs/Paus.png");
+}

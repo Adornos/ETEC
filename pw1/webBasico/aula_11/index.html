@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caça-Palavras</title>
+</head>
+
+    <style>
+        td{
+            width: 20px; height: 20px;
+            text-justify: distribute;
+        }
+        .red{
+            background-color: rgb(212, 153, 153);
+        }
+        .blu{
+            background-color: rgb(153, 174, 212);
+        }
+    </style>
+
+<body>
+    <table border="1px">
+        <tr>
+            <td>f</td>
+            <td>h</td>
+            <td>a</td>
+            <td>h</td>
+            <td>h</td>
+            <td>r</td>
+            <td>a</td>
+            <td>d</td>
+            <td>f</td>
+            <td class="red">r</td>
+            <td>g</td>
+            <td>d</td>
+            <td>f</td>
+            <td>s</td>
+            <td>d</td>
+            <td>s</td>
+            <td>r</td>
+            <td>r</td>
+            <td>a</td>
+            <td>e</td>
+            <td>r</td>
+            <td class="red">t</td>
+            <td>t</td>
+            <td>t</td>
+        </tr>
+        <tr>
+            <td>r</td>
+            <td class="blu">o</td>
+            <td class="blu">p</td>
+            <td class="blu">r</td>
+            <td class="blu">i</td>
+            <td class="blu">n</td>
+            <td class="blu">c</td>
+            <td class="blu">i</td>
+            <td class="blu">p</td>
+            <td class="blu">e</td>
+            <td>e</td>
+            <td>d</td>
+            <td>y</td>
+            <td>e</td>
+            <td>u</td>
+            <td>o</td>
+            <td class="red">s</td>
+            <td>i</td>
+            <td>p</td>
+            <td>f</td>
+            <td class="red">f</td>
+            <td>c</td>
+            <td>i</td>
+            <td>q</td>
+        </tr>
+        <tr>
+            <td>r</td>
+            <td>s</td>
+            <td>x</td>
+            <td>f</td>
+            <td>g</td>
+            <td>q</td>
+            <td>w</td>
+            <td>e</td>
+            <td>r</td>
+            <td class="red">d</td>
+            <td class="red">r</td>
+            <td class="red">a</td>
+            <td class="red">g</td>
+            <td class="red">o</td>
+            <td class="red">n</td>
+            <td class="red">b</td>
+            <td class="red">a</td>
+            <td class="red">l</td>
+            <td class="red">l</td>
+            <td class="red">a</td>
+            <td>r</td>
+            <td>t</td>
+            <td>p</td>
+            <td>i</td>
+        </tr>
+        <tr>
+            <td class="blu">r</td>
+            <td class="blu">o</td>
+            <td class="blu">m</td>
+            <td class="blu">e</td>
+            <td class="blu">u</td>
+            <td class="blu">e</td>
+            <td class="blu">j</td>
+            <td class="blu">u</td>
+            <td class="blu">l</td>
+            <td class="blu">i</td>
+            <td class="blu">e</td>
+            <td class="blu">t</td>
+            <td class="blu">a</td>
+            <td>t</td>
+            <td>a</td>
+            <td>u</td>
+            <td class="red">p</td>
+            <td>k</td>
+            <td class="red">r</td>
+            <td>h</td>
+            <td>a</td>
+            <td>s</td>
+            <td>y</td>
+            <td>d</td>
+        </tr>
+        <tr>
+            <td>w</td>
+            <td>a</td>
+            <td>z</td>
+            <td>d</td>
+            <td>i</td>
+            <td>t</td>
+            <td>u</td>
+            <td>d</td>
+            <td>k</td>
+            <td class="red">s</td>
+            <td>h</td>
+            <td>a</td>
+            <td class="red">i</td>
+            <td>t</td>
+            <td>d</td>
+            <td>k</td>
+            <td class="red">i</td>
+            <td class="red">c</td>
+            <td>a</td>
+            <td>s</td>
+            <td>y</td>
+            <td>d</td>
+            <td>t</td>
+            <td>s</td>
+        </tr>
+        <tr>
+            <td>w</td>
+            <td>a</td>
+            <td>i</td>
+            <td>t</td>
+            <td>y</td>
+            <td>d</td>
+            <td>d</td>
+            <td>j</td>
+            <td>z</td>
+            <td class="red">t</td>
+            <td>k</td>
+            <td>j</td>
+            <td class="red">r</td>
+            <td>i</td>
+            <td class="blu">s</td>
+            <td class="blu">u</td>
+            <td class="blu">e</td>
+            <td class="blu">d</td>
+            <td class="blu">o</td>
+            <td class="blu">m</td>
+            <td class="blu">o</td>
+            <td class="blu">h</td>
+            <td>y</td>
+            <td>h</td>
+        </tr>
+        <tr>
+            <td>j</td>
+            <td>d</td>
+            <td>y</td>
+            <td>h</td>
+            <td>a</td>
+            <td>g</td>
+            <td>d</td>
+            <td>k</td>
+            <td>h</td>
+            <td class="red">u</td>
+            <td>a</td>
+            <td>s</td>
+            <td class="red">a</td>
+            <td>t</td>
+            <td>d</td>
+            <td class="red">n</td>
+            <td class="red">n</td>
+            <td>w</td>
+            <td>j</td>
+            <td>a</td>
+            <td>y</td>
+            <td>y</td>
+            <td>d</td>
+            <td>s</td>
+        </tr>
+        <tr>
+            <td>d</td>
+            <td>t</td>
+            <td>w</td>
+            <td class="blu">t</td>
+            <td class="blu">i</td>
+            <td class="blu">b</td>
+            <td class="blu">b</td>
+            <td class="blu">o</td>
+            <td class="blu">h</td>
+            <td class="blu">o</td>
+            <td>s</td>
+            <td>a</td>
+            <td class="red">r</td>
+            <td>e</td>
+            <td class="red">i</td>
+            <td>d</td>
+            <td class="red">s</td>
+            <td>i</td>
+            <td>t</td>
+            <td>t</td>
+            <td>z</td>
+            <td>j</td>
+            <td>g</td>
+            <td>s</td>
+        </tr>
+        <tr>
+            <td>i</td>
+            <td>z</td>
+            <td>g</td>
+            <td>d</td>
+            <td>s</td>
+            <td>y</td>
+            <td>s</td>
+            <td>a</td>
+            <td>u</td>
+            <td class="red">e</td>
+            <td>y</td>
+            <td>g</td>
+            <td class="red">r</td>
+            <td class="blu">m</td>
+            <td class="blu">e</td>
+            <td class="blu">d</td>
+            <td class="blu">i</td>
+            <td class="blu">t</td>
+            <td class="blu">a</td>
+            <td class="blu">c</td>
+            <td class="blu">o</td>
+            <td class="blu">e</td>
+            <td class="blu">s</td>
+            <td>a</td>
+        </tr>
+        <tr>
+            <td>t</td>
+            <td>t</td>
+            <td>o</td>
+            <td>g</td>
+            <td>z</td>
+            <td>k</td>
+            <td>q</td>
+            <td>e</td>
+            <td>y</td>
+            <td class="red">h</td>
+            <td>z</td>
+            <td>x</td>
+            <td class="red">e</td>
+            <td>v</td>
+            <td>u</td>
+            <td>p</td>
+            <td>a</td>
+            <td>s</td>
+            <td>z</td>
+            <td>e</td>
+            <td>w</td>
+            <td>q</td>
+            <td>e</td>
+            <td>h</td>
+        </tr>
+        <tr>
+            <td>q</td>
+            <td>z</td>
+            <td>x</td>
+            <td>e</td>
+            <td>w</td>
+            <td>v</td>
+            <td>z</td>
+            <td>p</td>
+            <td>k</td>
+            <td class="red">t</td>
+            <td>e</td>
+            <td>c</td>
+            <td class="red">t</td>
+            <td>a</td>
+            <td>s</td>
+            <td>z</td>
+            <td>t</td>
+            <td>t</td>
+            <td>o</td>
+            <td>g</td>
+            <td>y</td>
+            <td>s</td>
+            <td>e</td>
+            <td>h</td>
+        </tr>
+    </tbl>
+    <p>Meditações,
+        Sapiens,
+        Homo Deus,
+        O Principe,
+        Dragon Ball,
+        Romeu e Julieta,
+        O Hobbit,
+        The Outsider,
+        Minecraft,
+        Terraria</p>
+</body>
+</html>
